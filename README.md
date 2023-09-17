@@ -1,2 +1,3 @@
 # reimagined-carnival
-practice coding
+Java and stuff idk
+Get Gud
